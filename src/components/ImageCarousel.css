@@ -1,0 +1,15 @@
+/* .carousel-inner > .item >img{
+    min-height : 300px;
+    max-height : 300px;
+    width : 100%;
+  }
+  .container{
+    height:300px;
+  }
+   */
+.ChangeSize{
+    height:"150px"
+}
+.MarginChange{
+    margin-left: 25%;
+}

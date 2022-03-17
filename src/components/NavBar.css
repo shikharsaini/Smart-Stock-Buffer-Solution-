@@ -1,0 +1,21 @@
+.link{
+    color: #FFF;
+    text-decoration: inherit;
+}
+.link:hover{
+    color: grey;
+    text-decoration: inherit;
+}
+.box{
+    height: 300%;
+    background-clip: border-box;
+}
+.box:hover{
+    background-color: white;
+}
+.stick{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
